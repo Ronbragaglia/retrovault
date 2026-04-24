@@ -6,7 +6,7 @@
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
 [![MongoDB](https://img.shields.io/badge/MongoDB-7-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://mongodb.com)
 [![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC%20BY--NC%204.0-red?style=flat-square)](LICENSE)
 
 **Catálogo interativo de games retro com reviews, coleção pessoal e favoritos**
 
@@ -79,4 +79,4 @@ docker compose up -d
 
 ## 📄 Licença
 
-[MIT](LICENSE) — Rone Bragaglia
+[CC BY-NC 4.0](LICENSE) — Rone Bragaglia — Uso comercial proibido sem autorizacao
